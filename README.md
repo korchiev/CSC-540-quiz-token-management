@@ -21,14 +21,14 @@ pip install python-docx pandas
 Configuration
 You can customize the script by modifying the following variables in the `random_token_generator.py` file:
 
-`num_strings`: The number of random tokens to generate.
-`quiz_number`: The quiz number or identifier.
-`font_size`: The font size for the tokens in the Word document.
++ `num_strings`: The number of random tokens to generate.
++ `quiz_number`: The quiz number or identifier.
++ `font_size`: The font size for the tokens in the Word document.
 Output
 After running the script, you will find the following output files in the quiz_tokens directory:
 
-`quiz_{quiz_number}_tokens.docx`: The Word document containing the generated tokens.
-`quiz_{quiz_number}_tokens.csv`: The CSV file containing the generated tokens.
++ `quiz_{quiz_number}_tokens.docx`: The Word document containing the generated tokens.
++ `quiz_{quiz_number}_tokens.csv`: The CSV file containing the generated tokens.
 Feel free to adjust the script and its configuration to meet your specific requirements.
 
 
