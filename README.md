@@ -27,5 +27,5 @@ You can customize the script by modifying the following variables in the compare
 Output
 After running the script, you will find the following output file in the project directory:
 
-non_matching_rows.csv: The CSV file containing the non-matching rows between the two input CSV files.
+`non_matching_rows.csv`: The CSV file containing the non-matching rows between the two input CSV files.
 Feel free to adjust the script and its configuration to meet your specific requirements.
