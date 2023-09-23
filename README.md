@@ -46,3 +46,7 @@ After running the script, you will find the following output file in the project
 
 `non_matching_rows.csv`: The CSV file containing the non-matching rows between the two input CSV files.
 Feel free to adjust the script and its configuration to meet your specific requirements.
+
+### `quiz_tokens` directory contains all the relevant tokens for quizes 
+
+### `Quiz administration.docx` contains written flow for processing quizzes
